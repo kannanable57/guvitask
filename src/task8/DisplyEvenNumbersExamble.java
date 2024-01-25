@@ -1,4 +1,4 @@
-package example;
+package task8;
 
 public class DisplyEvenNumbersExamble {
 
