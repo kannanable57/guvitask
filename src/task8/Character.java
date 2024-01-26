@@ -1,4 +1,4 @@
-package example;
+package task8;
 
  class Character {
 
@@ -9,5 +9,4 @@ for(c = 'A'; c <='z'; ++c);
 System.out.print(c+"");
 	}
 }
-
 
